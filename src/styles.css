@@ -1,0 +1,17 @@
+div,
+h1,
+p {
+  font-family: sans-serif;
+  font-size: 18px;
+  margin: 5px;
+  padding: 0;
+}
+div {
+  display: inline-block;
+}
+img {
+  border-radius: 50%;
+}
+input {
+  display: block;
+}
